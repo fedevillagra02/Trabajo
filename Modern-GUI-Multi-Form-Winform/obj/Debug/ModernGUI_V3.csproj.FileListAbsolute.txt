@@ -1,0 +1,75 @@
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\TUT YOUTUBE\Tutoriales #3\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csprojResolveAssemblyReference.cache
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+D:\Programacion\PostWork\PRUEBAS 1\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.cache
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+C:\Users\Administrador\Source\Repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form4.resources
+C:\Users\Administrador\source\repos\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form5.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form4.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form5.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+C:\Users\Lucas\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe.config
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.exe
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\bin\Debug\ModernGUI_V3.pdb
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form1.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form2.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form3.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form4.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Form5.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.FormPrincipal.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.exe
+C:\Users\Administrador\Desktop\Modern-GUI-Multi-Form-Winform\ModernGUI_V3\obj\Debug\ModernGUI_V3.pdb
